@@ -33,3 +33,9 @@ body{
   height: 80px;
   clear: both;
 }
+
+strong{ 
+  font-size: 2em;
+  font-weight: 900;
+}
+
