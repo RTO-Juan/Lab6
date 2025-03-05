@@ -29,14 +29,16 @@ body{
 #header #toplink
 
 
-#footer{ background-color: #777;
+#footer{ 
+  background-color: #777;
   height: 80px;
   clear: both;
 }
 
 
-#content-warapper
-{ background-image: url("../images/repeating.png");
+#content-warapper{
+
+  background-image: url("../images/repeating.png");
   float: left;
 }
 
@@ -62,7 +64,14 @@ h2 strong {
 
 #main-nav
 
-#main-nav ul
+#main-nav ul{ 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left:50%;
+}
 
 
 #main-nav ul li
