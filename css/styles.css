@@ -1,3 +1,11 @@
 body {
   background-image: url("../images/black.jpg");
 }
+
+
+
+.image-r{
+  float right;
+  border 2px solid blue;
+}
+ 
