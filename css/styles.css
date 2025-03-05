@@ -33,10 +33,11 @@
   position: relative;
   left:50%;}
 
-{ background-image: url("../images/repeating.png");
+#content-warapper{ background-image: url("../images/repeating.png");
   float: left;}
 
-body{ background-image: url("../images/black.jpg"); 
+body{ 
+  background-image: url("../images/black.jpg"); 
 }
 
   { 
